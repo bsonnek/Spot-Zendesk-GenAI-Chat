@@ -1,0 +1,24 @@
+
+### TIPs: 
+### Do Not add spaces before or after the =
+### Do Not add  "" around your values
+
+AZURE_OPENAI_API_TYPE=azure
+AZURE_OPENAI_ENDPOINT=https://your-APIM-URL-here.com/name/
+AZURE_OPENAI_API_KEY=xxxxxxxxxxx
+AZURE_OPENAI_API_VERSION=2023-05-15
+AZURE_OPENAI_CHAT_MODEL=gpt-35-turbo
+AZURE_OPENAI_EMBEDDING_MODEL=text-embedding-ada-002
+
+
+## Starter Variables
+
+#import os
+#AZURE_OPENAI_API_TYPE = os.environ.get("AZURE_OPENAI_ENDPOINT")
+#AZURE_OPENAI_ENDPOINT = os.environ.get("AZURE_OPENAI_ENDPOINT")
+#AZURE_OPENAI_API_KEY = os.environ.get("AZURE_OPENAI_API_KEY")
+#AZURE_OPENAI_API_VERSION = os.environ.get("AZURE_OPENAI_API_VERSION")
+#AZURE_OPENAI_CHAT_MODEL = os.environ.get("AZURE_OPENAI_CHAT_MODEL")
+#AZURE_OPENAI_EMBEDDING_MODEL = os.environ.get("AZURE_OPENAI_EMBEDDING_MODEL")
+
+# GitHub_Token_GenAI_Samples=
